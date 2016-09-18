@@ -1,0 +1,10 @@
+<div class="epigraph">
+  <blockquote>
+    <p>
+      {{ .Inner }}
+    </p>
+    <footer>
+      {{ .Get "attribution" | markdownify }}
+    </footer>
+  </blockquote>
+</div>

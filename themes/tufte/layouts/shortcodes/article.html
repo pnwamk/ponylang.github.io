@@ -1,0 +1,5 @@
+<article>
+  <h1>{{ .Get "title" }}</h1>
+  {{ with .Get "subtitle"}}<p class="subtitle">{{"."}}</p>{{ end }}
+  {{ .Inner }}
+</article>
