@@ -2,3 +2,6 @@ baseurl = "http://www.ponylang.org/"
 languageCode = "en-us"
 title = "Pony: High performance actor based computing"
 theme = "tufte"
+
+[params]
+  description = "Pony is an open-source, object-oriented, actor-model, capabilities-secure, high performance programming language"
