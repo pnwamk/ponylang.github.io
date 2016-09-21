@@ -4,7 +4,7 @@ title = "Community"
 {{% article title="The Pony Community" %}}
 
 {{% section %}}
-We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, or similar personal characteristic. Our [code of conduct](code-of-conduct) sets the standards for behavior in all official Pony forums.
+We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, or similar personal characteristic. Our [code of conduct]({{< relref "code-of-conduct.md" >}}) sets the standards for behavior in all official Pony forums.
 {{% /section %}}
 
 {{% section %}}
@@ -59,11 +59,7 @@ If you are interested in setting up a users' group in your area and would like t
 {{% section %}}
 ## Pony Development
 
-list various repos here. recap the developer's mailing list
-
-highlight RFC repo
-
-highlight weekly sync meeting
+If you are interested in helping to develop Pony, we have a [variety of resources]({{< relref "contribute/index.md" >}}) to get you started.
 {{% /section %}}
 
 {{% /article %}}
