@@ -4,7 +4,7 @@ type = "index"
 {{% article title="The Pony Community" %}}
 
 {{% section %}}
-{{< marginimage src="media/img/PonyLogo.gif">}}
+{{< marginimage id="mn-logo" src="media/img/PonyLogo.gif">}}
 
 Welcome! This is the website for the Pony programming language. Pony is an open-source, object-oriented, actor-model, capabilities-secure, high performance programming language. 
 {{% /section %}}
