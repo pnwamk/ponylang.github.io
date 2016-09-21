@@ -31,12 +31,15 @@ If you are interested in having a real time conversation about Pony, your best b
 {{% /section %}}
 
 {{% section %}}
-
 ## Mailing Lists
 
-* Users' mailing list
-* Developers' mailing list
-* Virtual Users' Group mailing list
+We host all our mailing lists with [groups.io](https://groups.io). You'll need a [groups.io account](https://groups.io/register) to sign up for any of our mailing lists. By joining any of the Pony mailing lists, you will also be automatically added to [an announce only broadcast list](https://pony.groups.io/g/pony).
+
+If you are a Pony user looking for assistance or to  discuss writing Pony code, you'll want to join the [Users' mailing list](https://pony.groups.io/g/user).
+
+If you are looking to contribute to Pony, you'll want to join the [Developers' mailing list](https://pony.groups.io/g/dev).
+
+If you are interested in finding out when our Virtual Users' Group is meeting or when new videos are posted, you should join the [Virtual Users' Group mailing list](https://pony.groups.io/g/vug).
 {{% /section %}}
 
 {{% section %}}
