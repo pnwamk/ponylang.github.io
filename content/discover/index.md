@@ -1,8 +1,6 @@
 +++
-title = "Discover Pony"
+title = "Discover"
 +++
-{{% article title="Discover" %}}
-
 {{% section %}}
 
 {{< newthought >}}Pony is type safe.{{< /newthought >}} <b>Really type safe</b>. There's a mathematical <a href="papers/fast-cheap.pdf">proof</a> and everything.
@@ -30,5 +28,3 @@ Pony is a ahead-of-time (AOT) compiled language. There is no interpreter or virt
 
 Pony programs can natively call C libraries. Our compiler is able to generate a C-header file for Pony libraries. Consequently, C/C++ programs can natively call Pony programs!
 {{% /section %}}
-
-{{% /article %}}

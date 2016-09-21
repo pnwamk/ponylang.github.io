@@ -1,8 +1,6 @@
 +++
-title = "Learn Pony"
+title = "Learn"
 +++
-{{% article title="Learn" %}}
 {{% section %}}
 Ready to learn Pony? Awesome.
 {{% /section %}}
-{{% /article %}}

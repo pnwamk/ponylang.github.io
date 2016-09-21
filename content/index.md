@@ -1,8 +1,7 @@
 +++
 type = "index"
+title = "Pony"
 +++
-{{% article title="Pony" %}}
-
 {{% section %}}
 {{< marginimage id="mn-logo" src="media/img/PonyLogo.gif">}}
 
@@ -19,4 +18,3 @@ We've set up the website to be based on _who you are_.
 * Existing Pony User looking for stuff? [Start here]({{< relref "reference/index.md">}})
 * Looking to Contribute to Pony? [Start here]({{< relref "contribute/index.md">}})
 {{% /section %}}
-{{% /article }}

@@ -1,8 +1,6 @@
 +++
 title = "Project Documentation"
 +++
-{{% article title="Project Documentation" %}}
-
 There's currently a small project underway to improve Pony documentation. We have a few initial aims
 
 ## Standard Library Documentation Improvements
@@ -28,6 +26,4 @@ The examples that come with Pony are often not idiomatic. One of the ways people
 
 There's plenty that people bring up as needing improvement/missing from the Tutorial.
 
-If you are interested in working on this project, please contact Sean T Allen <sean@monkeysnatchbanana.com>
-{{% /article %}}
- 
+If you are interested in working on this project, please contact Sean T Allen <sean@monkeysnatchbanana.com> 

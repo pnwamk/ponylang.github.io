@@ -1,8 +1,6 @@
 +++
-title = "For seeing how tufte theme works"
+title = "Tufte"
 +++
-{{% article title="Tufte" %}}
-
 {{% section %}}
 {{< newthought >}}This{{< /newthought >}} is a paragraph to start this initial idea. It's quite interesesting. So here we go.
 

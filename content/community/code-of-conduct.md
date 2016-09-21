@@ -1,8 +1,6 @@
 +++
 title = "Code of Conduct"
 +++
-{{% article title="Code of Conduct" %}}
-
 {{% section %}}
 ## Our Pledge
 
@@ -78,4 +76,3 @@ If you see a subtle -ism in the Pony community , you can point it out to the rel
 
 If you have any questions about any part of the code of conduct or social rules, please feel free to reach out to any of the project maintainers.
 {{% /section %}}
-{{% /article %}}
