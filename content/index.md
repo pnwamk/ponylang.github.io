@@ -1,7 +1,7 @@
 +++
 type = "index"
 +++
-{{% article title="The Pony Community" %}}
+{{% article title="Pony" %}}
 
 {{% section %}}
 {{< marginimage id="mn-logo" src="media/img/PonyLogo.gif">}}
