@@ -1,5 +1,5 @@
-<label for="mn-demo" class="margin-toggle">&#8853;</label>
-<input type="checkbox" id="mn-demo" class="margin-toggle"/>
+<label for="{{ .Get "id" }}" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="{{ .Get "id" }}" class="margin-toggle"/>
 <span class="marginnote">
   {{ .Inner }}
 </span>
