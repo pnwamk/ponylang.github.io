@@ -45,9 +45,15 @@ If you are interested in finding out when our Virtual Users' Group is meeting or
 {{% section %}}
 ## Users' Groups
 
-* Virtual Users' Group
-* London Users' Group
-* New York City Users' Group
+We currenly have 3 users' groups; one virtual and two in-person. At this time, the New York City and London users' groups rarely meet. Your best bet for a users' group at this time is the  [Virtual Users' Group](https://pony.groups.io/g/vug). In general, it meets about once a month via [Zoom](https://zoom.us).
+[Videos](https://vimeo.com/search/sort:latest?q=pony-vug) of past presentations are available.
+
+If you'd like to attend an in-person meetup, sign up for the mailing list to be informed the next time a meeting is occuring:
+
+* [London Users' Group](https://pony.groups.io/g/london)
+* [New York City Users' Group](https://pony.groups.io/g/nyc)
+
+If you are interested in setting up a users' group in your area and would like to host the mailing list on groups.io, drop us a line and we'll get you set up.
 {{% /section %}}
 
 {{% section %}}
