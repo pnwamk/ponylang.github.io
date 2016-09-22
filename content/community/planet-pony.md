@@ -8,6 +8,7 @@ We don't have a Pony blog aggregator at the moment, so in the meantime, we have 
 {{% section %}}
 ## 2016
 
+* [Pony: Co-Designing a Type System and a Runtime](https://www.youtube.com/watch?v=R6T8ytKV6dc)
 * [Pony VUG #6: Andrew Turley: The Art of Forgetting - Garbage Collection in Pony](https://vimeo.com/181099993)
 * [Reference Capabilites in Pony for everybody](https://zartstrom.github.io/pony/2016/08/28/reference-capabilities-in-pony.html)
 * [Pony VUG #5: George Steed: A Principled Design of Capabilities in Pony](https://vimeo.com/178522513)
