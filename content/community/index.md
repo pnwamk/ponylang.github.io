@@ -23,6 +23,15 @@ insert links to blog/news here
 {{% /section %}}
 
 {{% section %}}
+## Talks, Articles and more
+
+There should be more than just a list link here. Intro text etc,
+but, that can come later.
+
+* [Planet Pony]({{< relref "planet-pony.md" >}})
+{{% /section %}}
+
+{{% section %}}
 ## Chat
 
 If you are interested in having a real time conversation about Pony, your best bet is the #ponylang IRC channel on [freenode](https://freenode.net). [Public logs for #ponylang](https://irclog.whitequark.org/ponylang/) are available if you need to catch up on conversation. 
