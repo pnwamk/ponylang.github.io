@@ -1,5 +1,5 @@
 +++
-title = "Pony Reference Materials"
+title = "Reference"
 +++
 {{% section %}}
 Content goes here
