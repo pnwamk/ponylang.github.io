@@ -19,7 +19,7 @@ If you are looking for help with Pony and can't get a response in #ponylang, we 
 {{% section %}}
 ## News
 
-insert links to blog/news here
+* [News, blog, whatever you want to call it](/blog)
 {{% /section %}}
 
 {{% section %}}
