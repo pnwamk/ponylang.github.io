@@ -1,3 +1,7 @@
 {{ partial "head.html" . }}
-{{ partial "page.html" . }}
+{{ if eq .Type "index" }}
+  {{ partial "page.html" . }}
+{{ else if eq .Type "blog" }}
+  {{ partial "blog.html" . }}
+{{ end }}
 {{ partial "foot.html" . }}

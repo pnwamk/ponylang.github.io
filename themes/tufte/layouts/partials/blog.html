@@ -1,0 +1,12 @@
+<article>
+  <header>
+    <h1>{{ .Title }}</h1>
+    {{ if .Params.subtitle }}<p class="subtitle">{{ .Params.subtitle }}</p>{{ end }}
+    <p>
+      {{ if .Params.author }}by {{ .Params.author }}<br/>{{ end }}
+      {{ dateFormat "Monday, Jan 2, 2006" .Date }}
+    </p>
+  </header>
+
+  {{ .Content }}
+</article>
