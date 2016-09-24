@@ -4,7 +4,7 @@ title = "Discover"
 {{% section %}}
 ## Pony is type safe
 
-<b>Really type safe</b>. There's a mathematical <a href="papers/fast-cheap.pdf">proof</a> and everything.
+**Really type safe**. There's a mathematical [proof](/media/papers/fast-cheap.pdf) and everything.
 
 ## Pony is memory safe
 
@@ -13,7 +13,7 @@ pointers and no buffer overruns. The language doesn't even have the concept of n
 
 ## Exception Safe
 
-There are no runtime exceptions. All exceptions have defined semantics, and they are <b>always</b> caught.
+There are no runtime exceptions. All exceptions have defined semantics, and they are **always** caught.
 
 ## Data-race Free
 
