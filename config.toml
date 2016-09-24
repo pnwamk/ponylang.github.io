@@ -5,3 +5,6 @@ theme = "tufte"
 
 [params]
   description = "Pony is an open-source, object-oriented, actor-model, capabilities-secure, high performance programming language"
+
+[permalinks]
+  blog = "/blog/:year/:month/:title/"
