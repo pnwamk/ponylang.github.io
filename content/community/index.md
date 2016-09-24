@@ -64,6 +64,12 @@ If you are interested in setting up a users' group in your area and would like t
 {{% /section %}}
 
 {{% section %}}
+## Community Survey
+
+We run a yearly community survey to find out what the Pony community currently looks like. So far, "yearly" means "once". If you are interested in learning a bit more about the community you'll be joining, check out the [2016 State of the Stable]({{< relref "state-of-the-stable-2016.md" >}}) community survey
+{{% /section %}}
+
+{{% section %}}
 ## Pony Development
 
 If you are interested in helping to develop Pony, we have a [variety of resources]({{< relref "contribute/index.md" >}}) to get you started.
