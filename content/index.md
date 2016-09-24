@@ -1,6 +1,5 @@
 +++
-type = "index"
-title = "Pony"
+type = "homepage"
 +++
 {{% section %}}
 {{< marginimage id="mn-logo" src="media/img/PonyLogo.gif">}}

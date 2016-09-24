@@ -1,8 +1,8 @@
 {{ partial "head.html" . }}
 {{ partial "nav.html" . }}
 {{ range .Data.Pages }}
-    {{if eq .Type "index" }}
-        {{ partial "page.html" . }}
+    {{if eq .Type "homepage" }}
+        {{ partial "homepage.html" . }}
     {{end}}
 {{ end }}
 {{ partial "foot.html" . }}
