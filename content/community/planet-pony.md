@@ -8,6 +8,7 @@ We don't have a Pony blog aggregator at the moment, so in the meantime, we have 
 {{% section %}}
 ## 2016
 
+* [Pony Capabilities made simple](https://soyyomakesgames.wordpress.com/2016/10/10/ponys-capabilities-made-simple/)
 * [Pony VUG #7: Nick Pruhs: Designing an Actor Model Game Architecture with Pony ](https://vimeo.com/187451870)
 * [Pony - A Language for Provably Safe Lockless Concurrency](https://www.linuxfestnorthwest.org/2016/sessions/pony-language-provably-safe-lockless-concurrency)
 * [Pony: Co-Designing a Type System and a Runtime](https://www.youtube.com/watch?v=R6T8ytKV6dc)
