@@ -6,6 +6,12 @@ We don't have a Pony blog aggregator at the moment, so in the meantime, we have 
 {{% /section %}}
 
 {{% section %}}
+## 2017
+
+* [Découverte du langage Pony](https://zestedesavoir.com/articles/1329/decouverte-du-langage-pony/)
+{{% /section %}}
+
+{{% section %}}
 ## 2016
 
 * [Pony Capabilities made simple](https://soyyomakesgames.wordpress.com/2016/10/10/ponys-capabilities-made-simple/)
