@@ -8,6 +8,7 @@ We don't have a Pony blog aggregator at the moment, so in the meantime, we have 
 {{% section %}}
 ## 2017
 
+* [Pony Vug #8: Andrew Turley: Prime Cuts: The Best Pieces Of Pony ](https://vimeo.com/202387915)
 * [Découverte du langage Pony](https://zestedesavoir.com/articles/1329/decouverte-du-langage-pony/)
 {{% /section %}}
 
