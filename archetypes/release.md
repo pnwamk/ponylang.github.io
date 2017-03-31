@@ -6,10 +6,6 @@ categories = [
     "Release",
 ]
 +++
-{{% section %}}
 ... overview ...
-{{% /section %}}
-{{% section %}}
-## Changelog
-... release notes ...
-{{% /section %}}
+
+... changelog entry ...
