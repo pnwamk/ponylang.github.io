@@ -7,7 +7,20 @@
     </div>
     <div class="stretch">
       <div class="title">
-        {{ .Title }}
+      <span class="breadcrumb">
+    {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $.Scratch.Add "path" .Site.BaseURL }}
+{{ $ncats := sub (len (split $url "/")) 2}}
+{{ range $index, $element := split $url "/" }}
+  {{ $.Scratch.Add "path" $element }}
+    {{ if and (ne $element "") (ne $index $ncats)}}
+    <a href='{{ $.Scratch.Get "path" }}'>{{ . }}</a>/
+    {{ $.Scratch.Add "path" "/" }}
+    {{ end }}
+{{ end }}{{ .Title }}
+
+
+</span>
       </div>
     </div>
 
@@ -22,12 +35,12 @@
       <a href="https://github.com/{{ . }}" title="@{{ . }} on GitHub" target="_blank" class="toggle-button icon icon-github"></a>
     </div>
     {{ end }}
-    
-    <!-- TODO: disabled until Hugo supports the generation of a content index natively 
+
+    <!-- TODO: disabled until Hugo supports the generation of a content index natively
     <div class="button button-search" role="button" aria-label="Search">
       <label class="toggle-button icon icon-search" title="Search" for="toggle-search"></label>
     </div>
-    -->    
+    -->
   </div>
   <div class="bar search">
     <div class="button button-close" role="button" aria-label="Close">

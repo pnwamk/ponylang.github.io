@@ -29,3 +29,7 @@ dd {
   margin-right: 28px;
   margin-bottom: 14px;
 }
+
+.header .stretch .title a {
+  display: inline;
+}
